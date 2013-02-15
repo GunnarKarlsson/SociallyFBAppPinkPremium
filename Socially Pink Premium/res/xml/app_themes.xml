@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appthemes>
+
+    <apptheme
+        name="theme_pink_00001"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00001_background"
+        displayname="pink 00001"
+        icon="theme_pink_00001_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    
+    <apptheme
+        name="theme_pink_00002"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00002_background"
+        displayname="pink 00002"
+        icon="theme_pink_00002_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    
+    <apptheme
+        name="theme_pink_00003"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00003_background"
+        displayname="pink 00003"
+        icon="theme_pink_00003_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    
+     <apptheme
+        name="theme_pink_00004"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00004_background"
+        displayname="pink 00004"
+        icon="theme_pink_00004_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00005"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00005_background"
+        displayname="pink 00005"
+        icon="theme_pink_00005_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00006"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00006_background"
+        displayname="pink 00006"
+        icon="theme_pink_00006_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00007"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00007_background"
+        displayname="pink 00007"
+        icon="theme_pink_00007_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00008"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00008_background"
+        displayname="pink 00008"
+        icon="theme_pink_00008_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00009"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00009_background"
+        displayname="pink 00009"
+        icon="theme_pink_00009_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00010"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00010_background"
+        displayname="pink 00010"
+        icon="theme_pink_00010_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00010"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00010_background"
+        displayname="pink 00010"
+        icon="theme_pink_00010_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00011"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00011_background"
+        displayname="pink 00011"
+        icon="theme_pink_00011_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00012"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00012_background"
+        displayname="pink 00012"
+        icon="theme_pink_00012_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00013"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00013_background"
+        displayname="pink 00013"
+        icon="theme_pink_00013_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00014"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00014_background"
+        displayname="pink 00014"
+        icon="theme_pink_00014_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00015"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00001_background"
+        displayname="pink 00015"
+        icon="theme_pink_00015_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00016"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00016_background"
+        displayname="pink 00016"
+        icon="theme_pink_00016_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00017"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00017_background"
+        displayname="pink 00017"
+        icon="theme_pink_00017_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00018"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00018_background"
+        displayname="pink 00018"
+        icon="theme_pink_00018_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00019"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00019_background"
+        displayname="pink 00019"
+        icon="theme_pink_00019_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00020"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00020_background"
+        displayname="pink 00020"
+        icon="theme_pink_00020_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00021"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00021_background"
+        displayname="pink 00021"
+        icon="theme_pink_00021_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00022"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00022_background"
+        displayname="pink 00022"
+        icon="theme_pink_00022_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00023"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00023_background"
+        displayname="pink 00023"
+        icon="theme_pink_00023_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00024"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00024_background"
+        displayname="pink 00024"
+        icon="theme_pink_00024_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00025"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00025_background"
+        displayname="pink 00025"
+        icon="theme_pink_00025_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00026"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00026_background"
+        displayname="pink 00026"
+        icon="theme_pink_00026_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00027"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00027_background"
+        displayname="pink 00027"
+        icon="theme_pink_00027_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00028"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00028_background"
+        displayname="pink 00028"
+        icon="theme_pink_00028_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00029"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00029_background"
+        displayname="pink 00029"
+        icon="theme_pink_00029_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00030"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00030_background"
+        displayname="pink 00030"
+        icon="theme_pink_00030_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00031"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00031_background"
+        displayname="pink 00031"
+        icon="theme_pink_00031_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00032"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00032_background"
+        displayname="pink 00032"
+        icon="theme_pink_00032_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00033"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00033_background"
+        displayname="pink 00033"
+        icon="theme_pink_00033_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00034"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00034_background"
+        displayname="pink 00034"
+        icon="theme_pink_00034_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00035"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00035_background"
+        displayname="pink 00035"
+        icon="theme_pink_00035_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00036"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00036_background"
+        displayname="pink 00036"
+        icon="theme_pink_00001_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00037"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00037_background"
+        displayname="pink 00037"
+        icon="theme_pink_00037_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00038"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00038_background"
+        displayname="pink 00038"
+        icon="theme_pink_00038_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00039"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00039_background"
+        displayname="pink 00039"
+        icon="theme_pink_00039_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00040"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00040_background"
+        displayname="pink 00040"
+        icon="theme_pink_00040_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00041"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00041_background"
+        displayname="pink 00041"
+        icon="theme_pink_00041_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00042"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00042_background"
+        displayname="pink 00042"
+        icon="theme_pink_00042_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00043"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00043_background"
+        displayname="pink 00043"
+        icon="theme_pink_00043_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00044"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00044_background"
+        displayname="pink 00044"
+        icon="theme_pink_00044_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00045"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00045_background"
+        displayname="pink 00045"
+        icon="theme_pink_00045_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00046"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00046_background"
+        displayname="pink 00046"
+        icon="theme_pink_00046_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00047"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00047_background"
+        displayname="pink 00047"
+        icon="theme_pink_00047_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00048"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00048_background"
+        displayname="pink 00048"
+        icon="theme_pink_00048_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00049"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00049_background"
+        displayname="pink 00049"
+        icon="theme_pink_00049_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00050"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00050_background"
+        displayname="pink 00050"
+        icon="theme_pink_00050_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00051"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00051_background"
+        displayname="pink 00051"
+        icon="theme_pink_00051_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00052"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00052_background"
+        displayname="pink 00052"
+        icon="theme_pink_00052_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00053"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00053_background"
+        displayname="pink 00053"
+        icon="theme_pink_00053_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00054"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00054_background"
+        displayname="pink 00054"
+        icon="theme_pink_00054_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00055"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00055_background"
+        displayname="pink 00055"
+        icon="theme_pink_00055_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00056"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00056_background"
+        displayname="pink 00056"
+        icon="theme_pink_00056_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00057"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00057_background"
+        displayname="pink 00057"
+        icon="theme_pink_00057_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00058"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00058_background"
+        displayname="pink 00058"
+        icon="theme_pink_00058_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00059"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00059_background"
+        displayname="pink 00059"
+        icon="theme_pink_00059_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00060"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00060_background"
+        displayname="pink 00060"
+        icon="theme_pink_00060_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00062"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00062_background"
+        displayname="pink 00062"
+        icon="theme_pink_00062_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00063"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00063_background"
+        displayname="pink 00063"
+        icon="theme_pink_00063_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00064"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00064_background"
+        displayname="pink 00064"
+        icon="theme_pink_00064_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00065"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00001_background"
+        displayname="pink 00065"
+        icon="theme_pink_00065_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00066"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00066_background"
+        displayname="pink 00066"
+        icon="theme_pink_00066_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00068"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00068_background"
+        displayname="pink 00068"
+        icon="theme_pink_00068_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00069"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00069_background"
+        displayname="pink 00069"
+        icon="theme_pink_00069_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00070"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00070_background"
+        displayname="pink 00070"
+        icon="theme_pink_00070_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00071"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00071_background"
+        displayname="pink 00071"
+        icon="theme_pink_00071_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00072"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00072_background"
+        displayname="pink 00072"
+        icon="theme_pink_00072_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00073"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00073_background"
+        displayname="pink 00073"
+        icon="theme_pink_00073_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00074"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00074_background"
+        displayname="pink 00074"
+        icon="theme_pink_00074_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00076"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00076_background"
+        displayname="pink 00076"
+        icon="theme_pink_00076_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00077"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00077_background"
+        displayname="pink 00077"
+        icon="theme_pink_00077_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00078"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00078_background"
+        displayname="pink 00078"
+        icon="theme_pink_00078_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00079"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00079_background"
+        displayname="pink 00079"
+        icon="theme_pink_00079_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00080"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00080_background"
+        displayname="pink 00080"
+        icon="theme_pink_00080_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00081"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00081_background"
+        displayname="pink 00081"
+        icon="theme_pink_00081_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00082"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00082_background"
+        displayname="pink 00082"
+        icon="theme_pink_00082_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00083"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00083_background"
+        displayname="pink 00083"
+        icon="theme_pink_00083_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00084"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00084_background"
+        displayname="pink 00084"
+        icon="theme_pink_00084_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00085"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00085_background"
+        displayname="pink 00085"
+        icon="theme_pink_00085_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00086"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00086_background"
+        displayname="pink 00086"
+        icon="theme_pink_00086_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00087"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00087_background"
+        displayname="pink 00087"
+        icon="theme_pink_00087_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    <apptheme
+        name="theme_pink_00088"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_pink_00088_background"
+        displayname="pink 00088"
+        icon="theme_pink_00088_background"
+        menucolor="leopardMenuColor" />
+   
+    <apptheme
+        name="theme_purple_rain"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_purple_rain_background"
+        displayname="Purple Rain"
+        icon="theme_purple_rain_background"
+        menucolor="leopardMenuColor" >
+    </apptheme>
+    
+    <apptheme
+        name="theme_pink"
+        actionbarcolor="pinkActionBarColor"
+        background="theme_pink_background"
+        displayname="Pink"
+        icon="theme_pink_background"
+        menucolor="pinkMenuColor" />
+    
+    <apptheme
+        name="theme_leopard"
+        actionbarcolor="leopardActionBarColor"
+        background="theme_leopard_background"
+        displayname="leopard"
+        icon="theme_leopard_background"
+        menucolor="leopardMenuColor" />
+    
+    <apptheme
+        name="theme_pink_fur"
+        actionbarcolor="pinkFurAbColor"
+        background="theme_pink_fur_background"
+        displayname="Pink Fur"
+        icon="theme_pink_fur_background"
+        menucolor="pinkFurMenuColor" />
+    
+    <apptheme
+        name="theme_hearts"
+        actionbarcolor="heartsActionBarColor"
+        background="theme_hearts_background"
+        displayname="Hearts"
+        icon="theme_hearts_background"
+        menucolor="heartsMenuColor" />
+    
+    <apptheme
+        name="theme_stripes_white_pink_black"
+        actionbarcolor="pinkBlackStripesAbColor"
+        background="theme_stripes_white_pink_black_background"
+        displayname="PinknBlack stripes"
+        icon="theme_stripes_white_pink_black_background"
+        menucolor="stripesWhitePinkBlackMenuColor" />
+    
+    <apptheme
+        name="theme_zebra"
+        actionbarcolor="zebraActionBarColor"
+        background="theme_zebra_background"
+        displayname="Zebra"
+        icon="theme_zebra_background"
+        menucolor="zebraMenuColor" />
+    
+    <apptheme
+        name="theme_pink_skull"
+        actionbarcolor="pinkSkullAbColor"
+        background="theme_pink_skull_background"
+        displayname="Pink Skull"
+        icon="theme_pink_skull_background"
+        menucolor="pinkSkullMenuColor" />
+    
+    <apptheme
+        name="theme_girly_skull"
+        actionbarcolor="girlySkullActionBarColor"
+        background="theme_girly_skull_background"
+        displayname="Girly Skull"
+        icon="theme_girly_skull_background"
+        menucolor="girlySkullMenuColor" />
+    
+    <apptheme
+        name="theme_electric"
+        actionbarcolor="electricActionBarColor"
+        background="theme_electric_background"
+        displayname="Electric"
+        icon="theme_electric_background"
+        menucolor="electricMenuColor" />
+    
+    <apptheme
+        name="theme_stripes_pink_purple"
+        actionbarcolor="pinkGreyAbColor"
+        background="theme_stripes_pink_purple_background"
+        displayname="Air Mail"
+        icon="theme_stripes_pink_purple_background"
+        menucolor="pinkGreyMenuColor" />
+    
+    <apptheme
+        name="theme_pink_circles"
+        actionbarcolor="pinkCirclesAbColor"
+        background="theme_pink_circles_background"
+        displayname="Pink Circles"
+        icon="theme_pink_circles_background"
+        menucolor="pinkCirclesMenuColor" />
+    
+    <apptheme
+        name="theme_blue"
+        actionbarcolor="dotsPinkAbColor"
+        background="theme_dots_pink_background"
+        displayname="Dots Pink"
+        icon="theme_dots_pink_background"
+        menucolor="dotsPinkMenuColor" />
+    
+    <apptheme
+        name="theme_pink_white_stripes"
+        actionbarcolor="pinkWhiteStripesAbColor"
+        background="theme_pink_white_stripes_background"
+        displayname="Pink White Stripes"
+        icon="theme_pink_white_stripes_background"
+        menucolor="pinkWhiteStripesMenuColor" />
+    
+    <apptheme
+        name="theme_pink_black_stripes"
+        actionbarcolor="pinkBlackStripesAbColor"
+        background="theme_pink_black_stripes_background"
+        displayname="Pink Black Stripes"
+        icon="theme_pink_black_stripes_background"
+        menucolor="blackMenuColor" />
+    
+    <apptheme
+        name="theme_pop_pink"
+        actionbarcolor="pinkFlowersAbColor"
+        background="theme_pop_pink_background"
+        displayname="Pink flowers"
+        icon="theme_pop_pink_background"
+        menucolor="pinkFlowersMenuColor" />
+    
+    <apptheme
+        name="theme_girly_skull_fur"
+        actionbarcolor="pinkFurAbColor"
+        background="theme_girly_skull_fur_background"
+        displayname="Girly Skull Fur"
+        icon="theme_girly_skull_fur_background"
+        menucolor="pinkFurMenuColor" />
+    
+    <apptheme
+        name="theme_capsule"
+        actionbarcolor="capsuleAbColor"
+        background="theme_capsule_background"
+        displayname="Capsule"
+        icon="theme_capsule_background"
+        menucolor="capsuleMenuColor" />
+
+</appthemes>
