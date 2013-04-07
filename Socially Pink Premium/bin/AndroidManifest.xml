@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.bluebitapps.sociallypinkpremium"
-    android:versionCode="27"
-    android:versionName="1.00027" >
+    android:versionCode="47"
+    android:versionName="1.00047" >
 
     <uses-sdk
         android:minSdkVersion="14"

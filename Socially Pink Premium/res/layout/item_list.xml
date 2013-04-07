@@ -13,7 +13,7 @@
         android:layout_alignParentTop="true"
         android:cacheColorHint="#00000000"
         android:divider="@android:color/transparent"
-        android:dividerHeight="10.0sp"
+        android:dividerHeight="@dimen/divider_height"
         android:fastScrollEnabled="true"
         android:paddingLeft="@dimen/list_padding_left"
         android:paddingRight="@dimen/list_padding_right" 
